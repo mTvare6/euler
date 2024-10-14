@@ -1,0 +1,12 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-c",
+      "-std=c++20",
+      "p62.cpp"
+    ],
+    "directory": "/home/epestr/code/euler",
+    "file": "/home/epestr/code/euler/p62.cpp"
+  }
+]
